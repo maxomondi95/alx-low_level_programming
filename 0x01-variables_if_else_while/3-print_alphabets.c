@@ -4,7 +4,8 @@
  * main - Prints the alphabet.
  *
  * Return: Always 0 (Success)
-i */
+i
+*/
 int main(void)
 {
 char alp[53] ="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
