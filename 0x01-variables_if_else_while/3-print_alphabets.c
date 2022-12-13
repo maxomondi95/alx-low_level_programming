@@ -4,10 +4,10 @@
  * main - Prints the alphabet.
  *
  * Return: Always 0 (Success)
- */
+i */
 int main(void)
 {
-char alp[26] = "abcdefghijklmnopqrstuvwxyz";
+char alp[53] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 int i;
 
 for (i = 0; i < 26; i++)
